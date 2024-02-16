@@ -21,10 +21,10 @@ This is an automated trading bot a software tool designed to assist users in aut
 ## Screenshots
 Some Backtest Results
 
- - Results based on backtesting using 20% risk
+ - Results based on backtesting using 20% cash at risk
 <img width="1552" alt="Screenshot 2024-02-15 at 2 00 03 AM" src="https://github.com/AdityaRaj23/AI_TRADING_BOT/assets/95625520/b2f47d6c-649e-4274-a647-196d072db6fb">
 <img width="1552" alt="Screenshot 2024-02-15 at 2 00 07 AM" src="https://github.com/AdityaRaj23/AI_TRADING_BOT/assets/95625520/f38762d9-fb0d-44b0-910c-201540ada30c">
 
-- Results based on backtesting using 20% risk
+- Results based on backtesting using 50% cash at risk
 <img width="1552" alt="Screenshot 2024-02-15 at 2 00 12 AM" src="https://github.com/AdityaRaj23/AI_TRADING_BOT/assets/95625520/a7ac1910-1f12-4f18-b147-91362c3af8bb">
 <img width="1552" alt="Screenshot 2024-02-15 at 2 00 15 AM" src="https://github.com/AdityaRaj23/AI_TRADING_BOT/assets/95625520/379c1890-f6b0-4736-a0a4-1c95550e85a2">
